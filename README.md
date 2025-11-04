@@ -25,8 +25,8 @@
 ![NMap](https://github.com/user-attachments/assets/19f5d4b4-2eb2-4018-b391-a575b020640d)
 
 ## Результаты запуска loop playbook
-![loopNMap3](https://github.com/user-attachments/assets/fc00890d-dcd4-4e28-b2bf-25bce167ed69)
-![loopNMap2](https://github.com/user-attachments/assets/d43f7a4d-bc33-40e6-ac6e-cf4add940f31)
 ![loopNMap1](https://github.com/user-attachments/assets/d2fc055c-8ab5-411d-acb8-5241b57af947)
+![loopNMap2](https://github.com/user-attachments/assets/d43f7a4d-bc33-40e6-ac6e-cf4add940f31)
+![loopNMap3](https://github.com/user-attachments/assets/fc00890d-dcd4-4e28-b2bf-25bce167ed69)
 
 Выполнил Орлов Артём
